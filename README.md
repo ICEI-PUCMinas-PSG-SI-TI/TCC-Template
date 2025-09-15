@@ -18,7 +18,7 @@ Os membros da equipe são:
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
-## Arquiv0 CITATION.cff
+## Arquivo CITATION.cff
 O preenchimento desse asrquivo com as informações dos integrantes e profesores é obrigatório.
 
 
