@@ -8,7 +8,7 @@ Trabalho de Conclusão de Curso (TCC)
 `SEMESTRE:`
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
-> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
+> Caso seja procedente, incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
 
 ## Participantes
 
@@ -17,6 +17,9 @@ Os membros da equipe são:
 - Ciclano Albuquerque
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
+
+## Arquivi CITATION.cff
+O preenchimento desse asrquivo com as informações dos integrantes e profesores é obrigatório.
 
 
 ## Pasta docs
