@@ -18,29 +18,14 @@ Os membros da equipe são:
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
-# Estrutura do Projeto
-
-1. [Introdução](./docs/1-Introdução.md)
-2. [Trabalhos Relacionados](./docs/2-TrabalhosRelacionados.md)
-3. [Especificação](./docs/3-Especificação.md)
-4. [Metodologia](./docs/4-Metodologia.md)
-5. [Resultado](./docs/5-Resultado.md)
-6. [Conclusão](./docs/6-Conclusão.md)
-7. [Referências Bibliográficas](./docs/7-Referências.md) 
 
 ## Pasta docs
 
 Esta pasta arquiva a documentação dos projetos.
 
-Na pasta `docs`, há uma subpasta `apresentacao` que armazena os arquivos utilizados para a apresentação do trabalho.
+Na pasta `docs`, há uma subpasta `artigo` que arquiva o pdf final do trabalho.
 
-Na pasta `docs`, há uma subpasta `artigo` que arquiva o artigo do trabalho.
-
-Na pasta `docs`, há uma subpasta `imagem` que armazena todas as
-imagens utilizadas para a elaboração do documento.
-
-Na pasta `docs`, há uma subpasta `video` que arquiva todos os
-videos do trabalho.
+Na pasta `guia-e-modelo`, há informações sobre como formatar o artigo e o template a ser usado.
 
 ## Pasta src
 
